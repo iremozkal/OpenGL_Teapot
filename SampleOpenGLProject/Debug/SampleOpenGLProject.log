@@ -1,0 +1,41 @@
+﻿  Source.cpp
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(138): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(139): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(169): warning C4305: '+=': truncation from 'double' to 'float'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(171): warning C4305: '-=': truncation from 'double' to 'float'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(173): warning C4305: '+=': truncation from 'double' to 'float'
+d:\414\4\sampleopenglproject4\sampleopenglproject\source.cpp(175): warning C4305: '-=': truncation from 'double' to 'float'
+  Mesh.cpp
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\mesh.cpp(31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  InitShader.cpp
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\414\4\sampleopenglproject4\sampleopenglproject\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  SampleOpenGLProject.vcxproj -> D:\414\4\SampleOpenGLProject4\Debug\SampleOpenGLProject.exe
+  SampleOpenGLProject.vcxproj -> D:\414\4\SampleOpenGLProject4\Debug\SampleOpenGLProject.pdb (Full PDB)
